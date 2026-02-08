@@ -40,4 +40,11 @@ Speak in **any language** → get **instant transcription + translation**.
 
 <img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/09537bf5-7cf8-40d9-8158-f275a2f7d242" />
 
+⭐ Support
+If you like this project:
+
+⭐ Star the repo
+🍴 Fork it
+🧠 Share feedback
+
 
