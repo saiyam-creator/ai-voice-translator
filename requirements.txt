@@ -1,0 +1,7 @@
+
+gradio
+faster-whisper
+deep-translator
+torch
+torchaudio
+numpy<2
